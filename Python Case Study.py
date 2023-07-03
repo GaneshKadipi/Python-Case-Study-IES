@@ -12,7 +12,7 @@ def roll():
         print('Result :',res)
         print('Do you want to play again ?(y/n) : ')
         a=input()
-        if a=='y':
+        if a=='y' or a=='yes:
             pass
         else:
             break
